@@ -1,5 +1,3 @@
-# Research-on-De-noising-Image-Restoration-Based-on-Diffusion-Model
-
 # Diffusion Model Image Restoration
 
 ## 使用方式
